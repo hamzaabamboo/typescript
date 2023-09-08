@@ -7,7 +7,7 @@
     "start": "ts-node src/index.ts",
     "lint": "eslint src/**",
     "lint:fix": "pnpm lint --fix",
-    "test": "ts-jest",
+    "test": "jest",
     "prepare": "husky install"
   },
   "author": "",
