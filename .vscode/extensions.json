@@ -5,6 +5,7 @@
     "eamodio.gitlens",
     "formulahendry.auto-complete-tag",
     "formulahendry.auto-close-tag",
-    "usernamehw.errorlens"
+    "usernamehw.errorlens",
+    "formulahendry.auto-rename-tag"
   ]
 }
