@@ -39,3 +39,6 @@ jobs:
 
       - name: Run Linting
         run: pnpm lint
+
+      - name: Run Testing
+        run: pnpm jest
