@@ -7,5 +7,6 @@ Template for typescript complete with linting etc.
 - Basic ts-node application
 - ESlint
 - Husky Pre-Commit
-- Github Actions workflow
 - Vscode configurations (to be added)
+- Code Testing with Test
+- Github Actions workflow for lint checking and testing
